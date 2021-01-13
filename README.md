@@ -1,4 +1,4 @@
-# -awesome-hentai
+# awesome-hentai
 
 # 站点索引
 
