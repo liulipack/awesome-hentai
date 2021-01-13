@@ -3,7 +3,7 @@
 # 站点索引
 
 ## 综合
-- 【琉璃神社】(https://hacg.me/wp?lang=zh) - 仅提供非中心化下载(BitTorrent)  
+- [琉璃神社](https://hacg.me/wp?lang=zh) - 仅提供非中心化下载(BitTorrent)  
   - [社区](https://hacg.me/wp/bbs?lang=zh)
 - [灵梦御所](https://blog.reimu.net) - 大部分采用中心化下载  
   - [社区](https://acg.is)
