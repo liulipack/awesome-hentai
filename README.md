@@ -24,7 +24,7 @@
 
 ## 漫画及图集
 - [e-hentai](https://e-hentai.org)
-  - 【熊喵书签】(https://expanda.now.sh)
+  - [熊喵书签](https://expanda.now.sh)
     - [Github](/noprogramming/expanda)
 
 未完待续...
