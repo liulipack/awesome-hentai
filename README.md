@@ -1,5 +1,3 @@
-# awesome-hentai
-
 # 站点索引
 
 ## 综合(Polymerization)
