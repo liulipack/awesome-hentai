@@ -34,6 +34,41 @@
 ## 轻小说(Novel)
 待补充...
 
+# 资源寻找
+- 找动画
+  - 有高质量截图
+    - https://trace.moe
+      - 点 `Browse a file` 上传截图，如果截图是在线的可以在显示 `Image URL` 输入。
+      - 点击 `Search` 按钮，然后等待片刻，把网页往下拖一点，就能找到动画名了。
+    - https://yandex.com.tr/gorsel
+      - 点搜索框旁边的相机图标，这时会出现一个面板，点左侧的 `Dosya seçin` 按钮上传截图；
+      - 如果截图是在线的可以在显示 `Görsel'in adresini girin` 的输入框输入，然后点击 `Bul` 按钮。
+      - 等待几秒，把网页往下拖一点，找到 `Görselin bulunduğu siteler` 挨个点开看看有没有动画名。
+  - 记得大概作品出品年份
+    - https://hanime.tv/browse/seasons
+      - 在右上角选择年份，等待片刻。
+      - 选择作品贩售季度。
+        - 第一季度是 `Winter [年份]`。
+        - 第二季度是 `Spring [年份]`。
+        - 第三季度是 `Summer [年份]`。
+        - 第四季度是 `Fall [年份]`。
+      - 找到对应作品后点进去。
+      - 点击 `Close Ad` 关闭广告，等待片刻。
+      - 把网页往下拖一点，找到  `Alternate Titles`，这里有英文、日文和韩文的作品名。
+- 找漫画及绘图
+  - https://saucenao.com
+    - 点击 `选择文件` 按钮后，点击 `get sauce` 上传截图并分析;
+    - 如果截图是在线的可以点击 `~advanced options~`，并在 `URL:` 旁的输入框输入，最后点击 `get sauce` 按钮。
+    - 等待片刻，后会分析出结果。
+  - https://exhentai.org / https://e-hentai.org
+    - 点击顶部输入框下方的 `Show File Search` 按钮。
+    - 点击 `选择文件` 按钮后，点击 `File Search` 上传截图并分析。
+    - 等待片刻，后会分析出结果。
+
+### 可连接“外网”
+
+### 不可链接“外网”
+
 # BitTorrent 程序
 
 ### 电脑
