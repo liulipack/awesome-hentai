@@ -19,6 +19,9 @@
 ## 动画(Anime)
 - [hanime.tv](https://hanime.tv) - 有广告，下载资源有限速。
 - [AnimeIDHentai](https://animeidhentai.com) - 没用过，怕广告嫌疑才加的。
+- 作品购买
+  - [dlsite R18 - 动画](https://www.dlsite.com/pro/works/video#wrapper)
+  - [Getchu - 成人动画（アダルトアニメ)](http://www.getchu.com/anime/adult.html)
 
 ## 漫画及图集(comic & Image Set)
 - [e-hentai](https://e-hentai.org)
