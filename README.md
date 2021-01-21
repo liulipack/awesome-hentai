@@ -3,17 +3,18 @@
 作品诚可贵，生体价更高。注意使用频率。
 
 ## 综合(Polymerization)
-- [琉璃神社](https://hacg.me/wp?lang=zh) - 仅提供非中心化下载(BitTorrent)  
+- [琉璃神社](https://hacg.me/wp?lang=zh) - 仅提供非中心化下载(BitTorrent)。有广告和流量统计。
+  - [域名获取](https://acg.gy/)
   - [社区](https://hacg.me/wp/bbs?lang=zh)
-- [灵梦御所](https://blog.reimu.net) - 大部分采用中心化下载  
+- [灵梦御所](https://blog.reimu.net) - 大部分采用中心化下载。有广告。
   - [社区](https://acg.is)
-- [Nyaa-Fap / 喵站-里区](https://sukebei.nyaa.si) - 部分字幕组的聚集地(分支按照英文组名字母排序)
+- [Nyaa-Fap / 喵站-里区](https://sukebei.nyaa.si) - 部分字幕组的聚集地，有广告。(分支按照英文组名字母排序)
   - [脸肿 / Haretahoo](https://sukebei.nyaa.si/user/lian_zhong) - 快速翻译流，但目前不太活跃。
   - [魔穗 / Maho](https://sukebei.nyaa.si/user/Maho-subs) - 更新慢，但质量高。想收集字幕的推荐这个组。
   - [桜都 / sakurato](https://sukebei.nyaa.si/user/sakurato) - 快速翻译流，部分资源还带影评。
   - [鹰小队 / Taka](https://sukebei.nyaa.si/user/ointment) - 快速翻译流。
   - [夜桜 / Yozakura](https://sukebei.nyaa.si/user/yozakura) - 近期只做 3D 作品，更新不太稳定。
-- [dlsite](https://www.dlsite.com) - 资源售卖平台。
+- [dlsite](https://www.dlsite.com) - 资源售卖平台。有流量统计。
   - [同人](https://www.dlsite.com/maniax) - 游戏，音声・ASMR，漫画，CG。
   - [成年漫画](https://www.dlsite.com/books) - 单行本，杂志/选集/，单篇/短片。
   - [美少女游戏](https://www.dlsite.com/pro) - 游戏，动画，CD剧・ASMR・音乐。
@@ -21,24 +22,24 @@
 ## 动画(Anime)
 - 作品购买
   - [dlsite R18 - 动画](https://www.dlsite.com/pro/works/video#wrapper)
-  - [Getchu - 成人动画（アダルトアニメ)](http://www.getchu.com/anime/adult.html)
-- [hanime.tv](https://hanime.tv) - 有广告，下载资源有限速。
-- [AnimeIDHentai](https://animeidhentai.com) - 没用过，怕广告嫌疑才加的。
+  - [Getchu - 成人动画（アダルトアニメ)](http://www.getchu.com/anime/adult.html) - 有广告和流量统计。
+- [hanime.tv](https://hanime.tv) - 下载资源有限速。有广告。
+- [AnimeIDHentai](https://animeidhentai.com) - 有广告和流量统计。
 - [wotupset/jphanime_data](/wotupset/jphanime_data) - 里番动画目录表
 
 ## 漫画及图集(comic & Image Set)
 - [e-hentai](https://e-hentai.org) - 无广告。
   - [熊喵书签](https://expanda.now.sh)
     - [Github](/noprogramming/expanda)
-- [喵绅士 / NyaHentai](https://zha.doghentai.com) - 有广告。
+- [喵绅士 / NyaHentai](https://zha.doghentai.com) - 有广告和流量统计。
   - [仅中文作品](https://zha.doghentai.com/language/chinese)
   - [域名清单](/nyahentai/nyahentai)
-- [禁漫天堂](https://18comic1.one) - 有广告，且较多。
+- [禁漫天堂](https://18comic1.one) - 有较多广告和流量统计。
   - [域名清单](/18comic/releasr)
 
 ## 游戏(Game)
-- [Nutaku](https://www.nutaku.net/games)
-- [Erogames](https://erogames.com/zh)
+- [Nutaku](https://www.nutaku.net/games) - 略。
+- [Erogames](https://erogames.com/zh) - 有流量统计。
 
 ## 轻小说(Novel)
 不知道...
