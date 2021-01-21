@@ -21,7 +21,7 @@
 
 ## 动画(Anime)
 - 作品购买
-  - [dlsite R18 - 动画](https://www.dlsite.com/pro/works/video#wrapper)
+  - [dlsite R18 - 动画](https://www.dlsite.com/pro/works/video#wrapper) - 有流量统计。
   - [Getchu - 成人动画（アダルトアニメ)](http://www.getchu.com/anime/adult.html) - 有广告和流量统计。
 - [hanime.tv](https://hanime.tv) - 下载资源有限速。有广告。
 - [AnimeIDHentai](https://animeidhentai.com) - 有广告和流量统计。
