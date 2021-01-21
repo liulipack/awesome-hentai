@@ -1,4 +1,6 @@
 # 站点索引
+**忠告**  
+作品诚可贵，生体价更高。注意使用频率。
 
 ## 综合(Polymerization)
 - [琉璃神社](https://hacg.me/wp?lang=zh) - 仅提供非中心化下载(BitTorrent)  
@@ -17,23 +19,29 @@
   - [美少女游戏](https://www.dlsite.com/pro) - 游戏，动画，CD剧・ASMR・音乐。
 
 ## 动画(Anime)
-- [hanime.tv](https://hanime.tv) - 有广告，下载资源有限速。
-- [AnimeIDHentai](https://animeidhentai.com) - 没用过，怕广告嫌疑才加的。
 - 作品购买
   - [dlsite R18 - 动画](https://www.dlsite.com/pro/works/video#wrapper)
   - [Getchu - 成人动画（アダルトアニメ)](http://www.getchu.com/anime/adult.html)
+- [hanime.tv](https://hanime.tv) - 有广告，下载资源有限速。
+- [AnimeIDHentai](https://animeidhentai.com) - 没用过，怕广告嫌疑才加的。
+- [wotupset/jphanime_data](/wotupset/jphanime_data) - 里番动画目录表
 
 ## 漫画及图集(comic & Image Set)
-- [e-hentai](https://e-hentai.org)
+- [e-hentai](https://e-hentai.org) - 无广告。
   - [熊喵书签](https://expanda.now.sh)
     - [Github](/noprogramming/expanda)
-
-未完待续...
+- [喵绅士 / NyaHentai](https://zha.doghentai.com) - 有广告。
+  - [仅中文作品](https://zha.doghentai.com/language/chinese)
+  - [域名清单](/nyahentai/nyahentai)
+- [禁漫天堂](https://18comic1.one) - 有广告，且较多。
+  - [域名清单](/18comic/releasr)
 
 ## 游戏(Game)
+- [Nutaku](https://www.nutaku.net/games)
+- [Erogames](https://erogames.com/zh)
 
 ## 轻小说(Novel)
-待补充...
+不知道...
 
 # 资源寻找
 - 找动画
