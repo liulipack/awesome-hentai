@@ -15,7 +15,7 @@
   - [桜都 / sakurato](https://sukebei.nyaa.si/user/sakurato) - 快速翻译流，部分资源还带影评。
   - [鹰小队 / Taka](https://sukebei.nyaa.si/user/ointment) - 快速翻译流。
   - [夜桜 / Yozakura](https://sukebei.nyaa.si/user/yozakura) - 近期只做 3D 作品，更新不太稳定。
-- [dlsite](https://www.dlsite.com) - 资源售卖平台。有流量统计。
+- [dlsite R18](https://www.dlsite.com) - 资源售卖平台。有流量统计。
   - [同人](https://www.dlsite.com/maniax) - 游戏，音声・ASMR，漫画，CG。
   - [成年漫画](https://www.dlsite.com/books) - 单行本，杂志/选集/，单篇/短片。
   - [美少女游戏](https://www.dlsite.com/pro) - 游戏，动画，CD剧・ASMR・音乐。
