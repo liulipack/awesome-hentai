@@ -7,6 +7,7 @@
 - [琉璃神社](https://hacg.me/wp?lang=zh) - 仅提供非中心化下载(BitTorrent)。有广告和流量统计。
   - [域名获取](https://acg.gy/)
   - [社区](https://hacg.me/wp/bbs?lang=zh)
+    - [琉璃避难](http://llbn.rinue.top/forumdisplay.php?fid=2) - 非官方零时社区
 - [灵梦御所](https://blog.reimu.net) - 大部分采用中心化下载。有广告。
   - [社区](https://acg.is)
 - [Nyaa-Fap / 喵站-里区](https://sukebei.nyaa.si) - 部分字幕组的聚集地，有广告。(分支按照英文组名字母排序)
