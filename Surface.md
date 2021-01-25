@@ -1,4 +1,4 @@
-[里区](/liulipack/awesome-hentai)
+[里区](https://github.com/liulipack/awesome-hentai)
 
 # 站点索引
 
