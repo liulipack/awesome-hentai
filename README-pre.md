@@ -27,24 +27,20 @@
         <td>未发现</td>
     </tr>
     <tr>
-        <th>[站点名]</th>
-        <td>[相关域名]</td>
-        <td>[简介]</td>
-        <td>[广告状况]</td>
-        <td>[流量统计状况]</td>
+        <th>Nyaa-Fap / 喵站-里区</th>
+        <td><a href="https://sukebei.nyaa.si" target="_blank" rel="nofollow noopener noreferrer">官网</a> / <a href="https://sukebei.nyaa.si/user/lian_zhong" title="快速翻译流，但目前不太活跃。" target="_blank" rel="nofollow noopener noreferrer">脸肿-Haretahoo</a> / <a href="https://sukebei.nyaa.si/user/Maho-subs" title="更新慢，但质量高。想收集字幕的推荐这个组。" target="_blank" rel="nofollow noopener noreferrer">魔穗-Maho</a> / <a href="https://sukebei.nyaa.si/user/sakurato" title="快速翻译流，部分资源还带影评。" target="_blank" rel="nofollow noopener noreferrer">桜都-sakurato</a> / <a href="https://sukebei.nyaa.si/user/ointment" title="快速翻译流。" target="_blank" rel="nofollow noopener noreferrer">鹰小队-Taka</a> / <a href="https://sukebei.nyaa.si/user/yozakura" title="近期只做 3D 作品，更新不太稳定。" target="_blank" rel="nofollow noopener noreferrer">夜桜-Yozakura</a></td>
+        <td>横跨二次元与三次元的分享站。</td>
+        <td>未发现</td>
+        <td>未发现</td>
+    </tr>
+    <tr>
+        <th>dlsite R18</th>
+        <td><a href="https://www.dlsite.com" target="_blank" rel="nofollow noopener noreferrer">官网</a> / <a href="https://www.dlsite.com/maniax" title="游戏，音声・ASMR，漫画，CG。" target="_blank" rel="nofollow noopener noreferrer">同人</a> / <a href="https://www.dlsite.com/books" title="单行本，杂志/选集/，单篇/短片。" target="_blank" rel="nofollow noopener noreferrer">成年漫画</a> / <a href="https://www.dlsite.com/pro" title="游戏，动画，CD剧・ASMR・音乐。" target="_blank" rel="nofollow noopener noreferrer">美少女游戏</a> </td>
+        <td>正版资源购买平台之一</td>
+        <td>自建(https://banner.eisys-bcs.jp/js/bcs.min.js)</td>
+        <td>谷歌跟踪代码管理(googletagmanager)</td>
     </tr>
 </table>
-
-- [Nyaa-Fap / 喵站-里区](https://sukebei.nyaa.si) - 部分字幕组的聚集地，有广告。(分支按照英文组名字母排序)
-  - [脸肿 / Haretahoo](https://sukebei.nyaa.si/user/lian_zhong) - 快速翻译流，但目前不太活跃。
-  - [魔穗 / Maho](https://sukebei.nyaa.si/user/Maho-subs) - 更新慢，但质量高。想收集字幕的推荐这个组。
-  - [桜都 / sakurato](https://sukebei.nyaa.si/user/sakurato) - 快速翻译流，部分资源还带影评。
-  - [鹰小队 / Taka](https://sukebei.nyaa.si/user/ointment) - 快速翻译流。
-  - [夜桜 / Yozakura](https://sukebei.nyaa.si/user/yozakura) - 近期只做 3D 作品，更新不太稳定。
-- [dlsite R18](https://www.dlsite.com) - 资源售卖平台。有流量统计。
-  - [同人](https://www.dlsite.com/maniax) - 游戏，音声・ASMR，漫画，CG。
-  - [成年漫画](https://www.dlsite.com/books) - 单行本，杂志/选集/，单篇/短片。
-  - [美少女游戏](https://www.dlsite.com/pro) - 游戏，动画，CD剧・ASMR・音乐。
 
 ## 动画(Anime)
 - 作品购买
