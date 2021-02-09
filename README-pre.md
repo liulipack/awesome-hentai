@@ -43,12 +43,54 @@
 </table>
 
 ## 动画(Anime)
-- 作品购买
-  - [dlsite R18 - 动画](https://www.dlsite.com/pro/works/video#wrapper) - 有流量统计。
-  - [Getchu - 成人动画（アダルトアニメ)](http://www.getchu.com/anime/adult.html) - 有广告和流量统计。
-- [hanime.tv](https://hanime.tv) - 下载资源有限速。有广告。
-- [AnimeIDHentai](https://animeidhentai.com) - 有广告和流量统计。
-- [wotupset/jphanime_data](https://github.com/wotupset/jphanime_data) - 里番动画目录表
+<table>
+    <tr>
+        <th>子分类</th>
+        <th>站点名</th>
+        <th>域名或链接</th>
+        <th>简介</th>
+        <th>广告状况</th>
+        <th>流量统计状况(前端可见)</th>
+    </tr>
+    <tr>
+        <th rowspan="2">正版购买</th>
+        <th>dlsite R18-动画</th>
+        <td><a href="https://www.dlsite.com/pro/works/video#wrapper" target="_blank" rel="nofollow noopener noreferrer">官网</a></td>
+        <td>资源购买平台之一。</td>
+        <td>自建(https://banner.eisys-bcs.jp/js/bcs.min.js)</td>
+        <td>谷歌跟踪代码管理(googletagmanager)</td>
+    </tr>
+    <tr>
+        <th>Getchu-成人动画（アダルトアニメ)</th>
+        <td><a href="http://www.getchu.com/anime/adult.html" target="_blank" rel="nofollow noopener noreferrer">官网</a></td>
+        <td>资源购买平台之一。</td>
+        <td>自建(http://www.getchu.com/mbanner/php/showBanner.php?gid=110)和 i-mobile(https://spcnv.i-mobile.co.jp/script/adv.js)</td>
+        <td>谷歌分析(google-analytics)和未知(rt.gsspat.jp)</td>
+    </tr>
+    <tr>
+        <th rowspan="2">在线观看</th>
+        <th>hanime.tv</th>
+        <td><a href="https://hanime.tv" target="_blank" rel="nofollow noopener noreferrer">官网</a></td>
+        <td>资源购买平台之一。</td>
+        <td>视频贴片广告(https://cdn.jsdelivr.net/npm/videojs-contrib-ads@6.6.1/dist/videojs.ads.min.js, https://imasdk.googleapis.com/js/sdkloader/ima3.js)和未知(https://a.adtng.com/get/10000694?time=)</td>
+        <td>谷歌跟踪代码管理(googletagmanager)</td>
+    </tr>
+    <tr>
+        <th>AnimeIDHentai</th>
+        <td><a href="https://www.animeidhentai.com" target="_blank" rel="nofollow noopener noreferrer">官网</a></td>
+        <td>资源购买平台之一。</td>
+        <td>自建(https://banner.eisys-bcs.jp/js/bcs.min.js)</td>
+        <td>谷歌跟踪代码管理(googletagmanager)</td>
+    </tr>
+    <tr>
+        <th>其他</th>
+        <th>wotupset/jphanime_data</th>
+        <td><a href="https://github.com/wotupset/jphanime_data" target="_blank" rel="nofollow noopener noreferrer">官网</a></td>
+        <td>里番动画目录表</td>
+        <td>未发现</td>
+        <td>自建(https://collector.githubapp.com/github/page_view?*, https://api.github.com/_private/browser/stats)</td>
+    </tr>
+</table>
 
 ## 漫画及图集(comic & Image Set)
 - [e-hentai](https://e-hentai.org) - 无广告。
