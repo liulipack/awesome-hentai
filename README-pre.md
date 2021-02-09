@@ -16,14 +16,14 @@
         <th>琉璃神社</th>
         <td><a href="https://hacg.me/wp?lang=zh" target="_blank" rel="nofollow noopener noreferrer">官网</a> / <a href="https://acg.gy" target="_blank" rel="nofollow noopener noreferrer">最新域名获取</a> / <a href="https://hacg.me/wp/bbs?lang=zh" target="_blank" rel="nofollow noopener noreferrer">社区</a></td>
         <td>综合资源分享站。仅提供非中心化下载(BitTorrent)。</td>
-        <td>自建</td>
+        <td>自建(www.liuli.cat###custom_html-2, www.liuli.cat###custom_html-3, www.liuli.cat###custom_html-11, www.liuli.cat###custom_html-12)</td>
         <td>谷歌分析(google-analytics)</td>
     </tr>
     <tr>
         <th>灵梦御所</th>
         <td><a href="https://blog.reimu.net" target="_blank" rel="nofollow noopener noreferrer">官网</a> / <a href="https://acg.is" target="_blank" rel="nofollow noopener noreferrer">社区</a></td>
         <td>综合资源分享站。大部分采用中心化下载。</td>
-        <td>自建</td>
+        <td>自建(blog.reimu.net###media_image-9, blog.reimu.net##a[href^="https://item.taobao.com"])</td>
         <td>未发现</td>
     </tr>
     <tr>
