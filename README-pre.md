@@ -86,7 +86,7 @@
         <th>其他</th>
         <th>wotupset/jphanime_data</th>
         <td><a href="https://github.com/wotupset/jphanime_data" target="_blank" rel="nofollow noopener noreferrer">官网</a></td>
-        <td>里番动画目录表</td>
+        <td>里番目录表</td>
         <td>未发现</td>
         <td>自建(https://collector.githubapp.com/github/page_view?*, https://api.github.com/_private/browser/stats)</td>
     </tr>
