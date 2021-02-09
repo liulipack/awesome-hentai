@@ -63,7 +63,7 @@
     <tr>
         <th>Getchu-成人动画（アダルトアニメ)</th>
         <td><a href="http://www.getchu.com/anime/adult.html" target="_blank" rel="nofollow noopener noreferrer">官网</a></td>
-        <td>资源购买平台之一。</td>
+        <td>略。</td>
         <td>自建(http://www.getchu.com/mbanner/php/showBanner.php?gid=110)和 i-mobile(https://spcnv.i-mobile.co.jp/script/adv.js)</td>
         <td>谷歌分析(google-analytics)和未知(rt.gsspat.jp)</td>
     </tr>
@@ -71,14 +71,14 @@
         <th rowspan="2">在线观看</th>
         <th>hanime.tv</th>
         <td><a href="https://hanime.tv" target="_blank" rel="nofollow noopener noreferrer">官网</a></td>
-        <td>资源购买平台之一。</td>
+        <td>资源在线观看平台之一。</td>
         <td>视频贴片广告(https://cdn.jsdelivr.net/npm/videojs-contrib-ads@6.6.1/dist/videojs.ads.min.js, https://imasdk.googleapis.com/js/sdkloader/ima3.js)和未知(https://a.adtng.com/get/10000694?time=)</td>
         <td>谷歌跟踪代码管理(googletagmanager)</td>
     </tr>
     <tr>
         <th>AnimeIDHentai</th>
         <td><a href="https://www.animeidhentai.com" target="_blank" rel="nofollow noopener noreferrer">官网</a></td>
-        <td>资源购买平台之一。</td>
+        <td>略。</td>
         <td>自建(https://banner.eisys-bcs.jp/js/bcs.min.js)</td>
         <td>谷歌跟踪代码管理(googletagmanager)</td>
     </tr>
