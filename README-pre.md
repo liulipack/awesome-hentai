@@ -14,24 +14,24 @@
     </tr>
     <tr>
         <th>琉璃神社</th>
-        <td>[官网](https://hacg.me/wp?lang=zh) [最新域名获取](https://acg.gy) [社区](https://hacg.me/wp/bbs?lang=zh)</td>
+        <td><a href="https://hacg.me/wp?lang=zh" target="_blank" rel="nofollow noopener noreferrer">官网</a> / <a href="https://acg.gy" target="_blank" rel="nofollow noopener noreferrer">最新域名获取</a> / <a href="https://hacg.me/wp/bbs?lang=zh" target="_blank" rel="nofollow noopener noreferrer">社区</a></td>
         <td>综合资源分享站。仅提供非中心化下载(BitTorrent)。</td>
         <td>自建</td>
         <td>谷歌分析(google-analytics)</td>
     </tr>
     <tr>
         <th>灵梦御所</th>
-        <td>[官网](https://blog.reimu.net) [社区](https://acg.is)</td>
+        <td><a href="https://blog.reimu.net" target="_blank" rel="nofollow noopener noreferrer">官网</a> / <a href="https://acg.is" target="_blank" rel="nofollow noopener noreferrer">社区</a></td>
         <td>综合资源分享站。大部分采用中心化下载。</td>
         <td>自建</td>
         <td>未发现</td>
     </tr>
     <tr>
-        <th>Mia Oolong</th>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <th>[站点名]</th>
+        <td>[相关域名]</td>
+        <td>[简介]</td>
+        <td>[广告状况]</td>
+        <td>[流量统计状况]</td>
     </tr>
 </table>
 
