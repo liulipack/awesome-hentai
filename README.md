@@ -11,7 +11,7 @@
 A | Any System, 所有操作系统
 AD | Any Desktop, 所有桌面操作系统
 AM | Any Mobile, 所有移动操作系统
-LA | Any Linux, 所有 Linux 发行版
+AL | Any Linux, 所有 Linux 发行版
 W | Windows, 视窗系统
 A | Android, 安卓系统
 M | MacOS, 麦金塔系统
