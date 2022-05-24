@@ -1,5 +1,7 @@
 # 0. 学会更好地提问
 
+请移步至 [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) 或 https://acg.is/d/7961-x-gun 。
+
 # 1. 资源
 
 ## .1 下载工具
@@ -22,7 +24,7 @@ LR | Linux-RPM, RPM 系 Linux 发行版
 [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) | 非官方的 qBittorrent 的修改版。1.自动屏蔽迅雷、QQ 旋风、百度、影音先锋、DLBT 和单向下载器；2.自动屏蔽来自中国的未知节点(默认禁用)；3.自动更新公共 Tracker 列表(默认禁用)；4.自动屏蔽 BitTorrent 媒体播放器选项(默认禁用)；5.节点黑、白名单。 | [GPL-2.0-or-later](https://github.com/c0re100/qBittorrent-Enhanced-Edition/blob/v4_4_x/COPYING) | AD
 [Transmission](https://transmissionbt.com) | 一款迅速、简单且免费的 BitTorrent 客户端。 | [GPL-2.0-or-later](https://github.com/transmission/transmission/blob/main/COPYING) | AD
 [BitComet](https://www.bitcomet.com/tw) | 一款免费的BT/HTTP/FTP下载软件！ | - | AD A
-[LibreTorrent](https://github.com/proninyaroslav/libretorrent/releases) | 免费、开源且拥有完整特性的安卓 Torrent 客户端。 | GPL-3.0-or-later | A
+[LibreTorrent](https://github.com/proninyaroslav/libretorrent/releases) | 免费、开源且拥有完整特性的安卓 Torrent 客户端。 | [GPL-3.0-or-later](https://github.com/proninyaroslav/libretorrent/blob/master/LICENSE.md) | A
 
 **开源许可部分许可证缩写参考 https://spdx.org/licenses**
 
