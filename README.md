@@ -54,6 +54,7 @@ LR | Linux-RPM, RPM 系 Linux 发行版
   - [Hanime1.me](https://hanime1.me) - 广隐审在
   - [hanime.tv](https://hanime.tv) - 广隐审在
   - [Animeidhentai](https://animeidhentai.com) - 广隐审在
+  - [Hentaimama](https://hentaimama.io) - 广审在盘
 - 游戏
   - [绅士天堂](https://www.aigalgame.com) - 隐比盘
   - [Nutaku](https://www.nutaku.net/zh) - 隐审盘
@@ -64,12 +65,13 @@ LR | Linux-RPM, RPM 系 Linux 发行版
     - [e-hentai](https://e-hentai.org) - 广审比在
     - [禁漫天堂](jmcomic.asia) - 广隐在
   	  - [新域名获取](https://acg.gy)
-	  - [NoyAcg](https://web.noy.asia) - 网站暂时无法浏览
-	  - [Pixiv-R18 漫画](https://www.pixiv.net/manga?r=1) - 广隐在
+	  - [NoyAcg](https://web.noy.asia) - 广隐在盘
+	  - [Pixiv-R18 漫画](https://www.pixiv.net/manga?r=1) - 广隐审在
   - 绘图
-    - [Pixiv-R18 插画](https://www.pixiv.net/cate_r18.php) - 广隐在
+    - [Pixiv-R18 插画](https://www.pixiv.net/cate_r18.php) - 广隐审在
+    - [Gelbooru](https://gelbooru.com) - 审在
 - 轻小说
-  - [Pixiv-R18 小说](https://www.pixiv.net/novel/cate_r18.php) - 广隐在
+  - [Pixiv-R18 小说](https://www.pixiv.net/novel/cate_r18.php) - 广隐审在
 
 
 ## .3 找回、溯源
