@@ -65,8 +65,8 @@ LR | Linux-RPM, RPM 系 Linux 发行版
     - [e-hentai](https://e-hentai.org) - 广审比在
     - [禁漫天堂](jmcomic.asia) - 广隐在
   	  - [新域名获取](https://acg.gy)
-	  - [NoyAcg](https://web.noy.asia) - 广隐在盘
-	  - [Pixiv-R18 漫画](https://www.pixiv.net/manga?r=1) - 广隐审在
+    - [NoyAcg](https://web.noy.asia) - 广隐在盘
+    - [Pixiv-R18 漫画](https://www.pixiv.net/manga?r=1) - 广隐审在
   - 绘图
     - [Pixiv-R18 插画](https://www.pixiv.net/cate_r18.php) - 广隐审在
     - [Gelbooru](https://gelbooru.com) - 审在
