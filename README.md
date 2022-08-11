@@ -65,9 +65,9 @@ A | Android, 安卓系统
 - 图片
   - 漫画
     - [e-hentai](https://e-hentai.org) - 广审比在
-    - [禁漫天堂](jmcomic.asia) - 广隐在
-  	  - [新域名获取](https://acg.gy)
-    - [NoyAcg](https://web.noy.asia) - 广隐在盘
+    - [禁漫天堂](https://18comic.vip) - 广隐在
+  	  - [新域名获取](https://jmcomic.bet)
+    - [NoyAcg](https://app.noy.asia) - 广隐在盘
     - [Pixiv-R18 漫画](https://www.pixiv.net/manga?r=1) - 广隐审在
   - 绘图
     - [Pixiv-R18 插画](https://www.pixiv.net/cate_r18.php) - 广隐审在
