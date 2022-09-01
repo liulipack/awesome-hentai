@@ -1,4 +1,4 @@
-受软件自由保护协会《[Give Up GitHub: The Time Has Come!(放弃 GitHub：时机以至！)](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/)》一文建议，本仓库将迁移至 [GitLab](https://gitlab.com/LiuliPack/awesome-hentai)。
+受软件自由保护协会《[Give Up GitHub: The Time Has Come!(放弃 GitHub：时机以至！)](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/)》一文建议，本仓库将迁移至 [GitLab](https://gitlab.com/LiuliPack/knowledge/-/blob/main/AwesomeHentai.md)。
 
 # 0. 学会更好地提问
 
